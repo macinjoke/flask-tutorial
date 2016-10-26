@@ -1,2 +1,2 @@
-# flask-practice
+# flask-tutorial
 Flaskの練習
